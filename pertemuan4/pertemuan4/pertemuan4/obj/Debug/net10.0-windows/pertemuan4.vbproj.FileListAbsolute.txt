@@ -1,0 +1,17 @@
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\bin\Debug\net10.0-windows\pertemuan4.exe
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\bin\Debug\net10.0-windows\pertemuan4.deps.json
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\bin\Debug\net10.0-windows\pertemuan4.runtimeconfig.json
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\bin\Debug\net10.0-windows\pertemuan4.dll
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\bin\Debug\net10.0-windows\pertemuan4.pdb
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.FrmPerulangan.resources
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.vbproj.GenerateResource.cache
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.AssemblyInfoInputs.cache
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.AssemblyInfo.vb
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.vbproj.CoreCompileInputs.cache
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.sourcelink.json
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.dll
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\refint\pertemuan4.dll
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.pdb
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\pertemuan4.genruntimeconfig.cache
+D:\Perkuliahan\Semester 5\pemrograman-visual\pertemuan4\pertemuan4\pertemuan4\obj\Debug\net10.0-windows\ref\pertemuan4.dll
