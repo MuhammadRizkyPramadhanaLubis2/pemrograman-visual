@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|d:\\perkuliahan\\semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|solutionrelative:tugas1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|d:\\perkuliahan\\semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|solutionrelative:tugas1\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|d:\\perkuliahan\\semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|solutionrelative:tugas1\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|d:\\perkuliahan\\semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0B5C4803-0371-475E-D524-A0689D6C117D}|tugas1\\tugas1.vbproj|solutionrelative:tugas1\\frmpajak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.vb",
+              "DocumentMoniker": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "tugas1\\FrmLogin.vb",
+              "ToolTip": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmLogin.vb",
+              "RelativeToolTip": "tugas1\\FrmLogin.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T16:50:35.369Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPajak.vb",
+              "DocumentMoniker": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmPajak.vb",
+              "RelativeDocumentMoniker": "tugas1\\FrmPajak.vb",
+              "ToolTip": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmPajak.vb",
+              "RelativeToolTip": "tugas1\\FrmPajak.vb",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T16:51:05.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPajak.vb [Design]",
+              "DocumentMoniker": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmPajak.vb",
+              "RelativeDocumentMoniker": "tugas1\\FrmPajak.vb",
+              "ToolTip": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmPajak.vb [Design]",
+              "RelativeToolTip": "tugas1\\FrmPajak.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T16:12:15.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.vb [Design]",
+              "DocumentMoniker": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "tugas1\\FrmLogin.vb",
+              "ToolTip": "D:\\Perkuliahan\\Semester 5\\pemrograman-visual\\tugas1\\tugas1\\tugas1\\FrmLogin.vb [Design]",
+              "RelativeToolTip": "tugas1\\FrmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-08T16:02:30.522Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
